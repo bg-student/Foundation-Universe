@@ -16,6 +16,12 @@ Read the [analysis of interstellar mobility and imperial cohesion](research/inte
 
 **Important:** the series has not established the actual passenger capacity, operating costs, ticket prices or the function of the vessel's exterior panels. All explanations remain hypotheses.
 
+### Why is an apparently permanent dynasty afraid of an idea?
+
+The viewer has now observed **cloned emperors** and a violent imperial response apparently associated with someone reading Seldon. Does genetic succession protect continuity, or can suppressing unwelcome information undermine the system it aims to preserve?
+
+See [genetic continuity, legitimacy and political repression](research/genetic-dynasty-and-political-repression.md). The exact circumstances of the reported killing and all wider consequences remain open questions.
+
 ## Research rules
 
 - [Watched-content boundary and source policy](WATCHED_BOUNDARY.md): nothing from unwatched scenes, later episodes or books; no spoiler-leaking pictures.

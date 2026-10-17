@@ -8,6 +8,22 @@
 - **Visible in supplied exterior image:** a prominent ring-like element; repeated external panels; a long lit strip or compartment line.
 - **Important distinction:** the ring-like exterior element has **not** been proven to be the same structure as the internal passenger positions, and no full passenger capacity has been confirmed.
 
+
+## Observation O-002 — The cloned emperors
+
+- **Viewer-reported:** the emperors are clones.
+- **Analysis opened:** genetic replication might reinforce political continuity and a symbolically unchanging ruler, but shared DNA alone cannot guarantee identical decisions or personalities.
+- **Unknown:** exact institutional rules, succession process, educational conditions and individual psychology.
+
+## Observation O-003 — Violent response connected to Seldon
+
+- **Viewer-reported:** an emperor kills someone apparently because that person was reading Seldon.
+- **Uncertainty:** reading as sole motive is the viewer's initial interpretation, not yet a verified account of the complete circumstances.
+- **Analysis opened:** suppression of a prediction can serve immediate regime legitimacy but might inhibit feedback and adaptation, potentially increasing structural weakness.
+- **Do not infer:** the incident proves Seldon's theory correct or implies any later fate of the dynasty.
+
+See [the genetic dynasty and repression analysis](../research/genetic-dynasty-and-political-repression.md).
+
 ## Research questions opened
 
 1. Are jump vessels built around propulsion/jump systems rather than passenger accommodation?
