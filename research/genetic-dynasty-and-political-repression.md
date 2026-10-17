@@ -13,6 +13,7 @@ Can a regime that seeks exceptional continuity through cloned emperors simultane
 | P-01 | The emperors are presented as clones. | **Viewer-reported scene, S01E01**. Their exact developmental conditions, succession mechanisms and degree of uniformity are not yet established here. |
 | P-02 | The viewer reports an emperor killing a person apparently because that person was reading Seldon. | **Viewer-reported interpretation, S01E01**. The exact motive, circumstances and whether reading alone was the complete cause remain subject to verification in the watched material. Do not fabricate the victim's identity. |
 | P-03 | Seldon presents a model predicting the Empire's decline. | **Previously discussed early S01E01 premise**. The prediction's correctness and full assumptions have not been verified. |
+| P-04 | The viewer reports a brilliant young mathematician, understood to be Gaal Dornick, may be expected to rebut Seldon's calculations. | **Viewer-reported S01E01 interpretation** with ambiguous voice transcription; neither her mandate nor the exact mathematical task is independently established. |
 
 ## Analytical models
 
@@ -33,6 +34,10 @@ If merely engaging with Seldon's argument prompts violence, the regime may treat
 A **hypothesis**, not a plot fact: efforts to defend stability by restricting critical information could degrade feedback, discourage institutional reform and conceal emerging problems. If true, those policies could contribute to the decline they aim to prevent.
 
 **Counterargument:** Repression alone does not establish that a political system is on the verge of collapse; the regime might preserve control despite intellectual restrictions.
+
+## New question: why seek mathematical rebuttal?
+
+There are now two potentially conflicting responses to the prediction: **punishment related to its dissemination** and **apparent interest in a credible mathematician who might challenge it**. This raises a testable question: does the regime want an independent review, a politically convenient rebuttal, or both? The new [mathematical-review analysis](mathematical-review-or-political-refutation.md) explicitly separates genuine scrutiny from political theater. No answer is established yet.
 
 ## Interaction with interstellar-transport hypotheses
 

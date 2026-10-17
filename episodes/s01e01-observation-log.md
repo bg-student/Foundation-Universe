@@ -1,6 +1,6 @@
 # S01E01 — Live observation log (partial)
 
-**Boundary:** The first interstellar jump and immediate vessel exterior. **Episode completion is NOT confirmed.**
+**Boundary:** S01E01 in progress. Includes the first jump and vessel exterior, the viewer-reported cloned emperors, imperial violence linked to Seldon and the mathematically gifted young woman; **episode completion is NOT confirmed**.
 
 ## Observation O-001 — Passenger area versus vessel scale
 
@@ -24,6 +24,15 @@
 
 See [the genetic dynasty and repression analysis](../research/genetic-dynasty-and-political-repression.md).
 
+
+## Observation O-004 — Mathematical challenge to Seldon
+
+- **Viewer-reported (imperfect voice transcription):** a gifted young woman, understood to be Gaal Dornick, solved a difficult mathematical problem; others apparently believe she may be able to refute Seldon's calculations.
+- **Uncertain:** exact problem, exact wording and intentions of those hoping for refutation.
+- **Research distinction:** rigorous mathematical criticism tests assumptions and derivations; politically required refutation prescribes a conclusion.
+- **No inference:** neither Seldon's rightness nor wrongness follows from Gaal's other mathematical achievement.
+
+See [mathematical review versus political refutation](../research/mathematical-review-or-political-refutation.md).
 
 ### Viewer-provided visual evidence
 

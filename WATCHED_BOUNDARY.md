@@ -2,7 +2,7 @@
 
 **Continuity:** *Foundation* (Apple TV+ television series). Books and other continuities are **not** authorized sources.
 
-**Current checkpoint (2026-10-17):** Season 1, episode 1 — the viewer has watched the first interstellar jump and the exterior view of the large vessel. **S01E01 is not confirmed completed.** Do not use later scenes, episodes, adaptations, official summaries, wikis, episode guides, search snippets or promotional images containing later material.
+**Current checkpoint (2026-10-17):** Season 1, episode 1 — the viewer has watched/reported: the first interstellar jump and vessel exterior; cloned emperors; a violent imperial reaction associated with Seldon; and a young mathematician whose ability may be used to challenge Seldon's calculations. Some speech-to-text details remain uncertain. **S01E01 is not confirmed completed.** Do not use later scenes, episodes, adaptations, official summaries, wikis, episode guides, search snippets or promotional images containing later material.
 
 ## Evidence discipline
 

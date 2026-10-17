@@ -1,6 +1,6 @@
 # Foundation Universe — analytical research notebook
 
-**Canon:** Apple TV+ series only. **Strict current spoiler boundary:** **S01E01, through the first interstellar jump and ship exterior**; the episode has *not* been confirmed finished.
+**Canon:** Apple TV+ series only. **Strict current spoiler boundary:** **S01E01 (in progress), through the viewer-confirmed first jump, ship exterior, cloned emperors, Seldon-related punishment and mathematician discussion**; the episode has *not* been confirmed finished.
 
 This is an **analysis-first** study of the depicted fictional civilization: technology, economic access, politics, social structure, and competing causal explanations. A compact encyclopedic record will support analyses as the viewer watches further. It is **not** an episode recap or an unrestricted fan wiki.
 
@@ -25,6 +25,12 @@ Read the [analysis of interstellar mobility and imperial cohesion](research/inte
 The viewer has now observed **cloned emperors** and a violent imperial response apparently associated with someone reading Seldon. Does genetic succession protect continuity, or can suppressing unwelcome information undermine the system it aims to preserve?
 
 See [genetic continuity, legitimacy and political repression](research/genetic-dynasty-and-political-repression.md). The exact circumstances of the reported killing and all wider consequences remain open questions.
+
+### Can the Empire refute Seldon scientifically?
+
+The viewer has now reported a brilliant young mathematician (understood to be Gaal Dornick), whose problem-solving ability makes her a potential critic of Seldon's calculations. We distinguish **independent mathematical review** from **a politically demanded result**. Both remain open interpretations.
+
+Read [Mathematical review or political refutation?](research/mathematical-review-or-political-refutation.md) for the analytical framework.
 
 ## Research rules
 
