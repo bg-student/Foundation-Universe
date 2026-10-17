@@ -1,1 +1,34 @@
-# Foundation-Universe
+# Foundation Universe — analytical research notebook
+
+**Canon:** Apple TV+ series only. **Strict current spoiler boundary:** **S01E01, through the first interstellar jump and ship exterior**; the episode has *not* been confirmed finished.
+
+This is an **analysis-first** study of the depicted fictional civilization: technology, economic access, politics, social structure, and competing causal explanations. A compact encyclopedic record will support analyses as the viewer watches further. It is **not** an episode recap or an unrestricted fan wiki.
+
+## Current investigation
+
+### Who gets to travel between the stars?
+
+The viewer noticed a striking scale mismatch: a huge jump-capable vessel, but seemingly few visible passenger positions. Does this imply **exclusive, expensive interstellar transport**, strategically subsidized routes, unknown additional capacity, or massive machinery required for a jump?
+
+![S01E01 interstellar-transport hypotheses diagram](assets/diagrams/transport-hypotheses.svg)
+
+Read the [analysis of interstellar mobility and imperial cohesion](research/interstellar-mobility-and-imperial-cohesion.md), or the [S01E01 observation log](episodes/s01e01-observation-log.md).
+
+**Important:** the series has not established the actual passenger capacity, operating costs, ticket prices or the function of the vessel's exterior panels. All explanations remain hypotheses.
+
+## Research rules
+
+- [Watched-content boundary and source policy](WATCHED_BOUNDARY.md): nothing from unwatched scenes, later episodes or books; no spoiler-leaking pictures.
+- Observations, viewer testimony, character claims, inferences, alternatives and open questions must be distinguished.
+- Preserve uncertainty and revision history rather than converting plausible interpretations into facts.
+- Treat images, diagrams, screenshots and maps as evidence requiring the same checks as prose.
+
+## Work style
+
+The viewer's only routine contribution is **watching, talking about the series and optionally providing photographs**. The assistant maintains analytical notes, visuals, Markdown links, Git branches, pull requests and merges as part of ordinary discussion. No instructions to operate GitHub should be required after access is established.
+
+This experiment currently supports automated **text and reproducible SVG** changes. Direct binary image transfer from conversation attachments into the repository is **not yet demonstrated** and must not be represented as complete. Source-image photographs should not be silently substituted with unverified internet images.
+
+---
+
+**Started:** 2026-10-17. **Viewer position:** S01E01 partial. **Status:** ongoing personal experiment.
