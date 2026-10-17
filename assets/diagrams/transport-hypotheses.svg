@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="575" viewBox="0 0 1040 575" role="img" aria-labelledby="title desc">
+<title id="title">Foundation S01E01: competing explanations of the vessel and passenger economics</title>
+<desc id="desc">Diagram distinguishing observations from four unconfirmed hypotheses and a conditional political implication. No claims about later episodes.</desc>
+<rect width="1040" height="575" rx="18" fill="#0f172a"/>
+<text x="45" y="51" fill="#f8fafc" font-family="Arial,sans-serif" font-weight="bold" font-size="26">FOUNDATION · S01E01</text>
+<text x="45" y="83" fill="#94a3b8" font-family="Arial,sans-serif" font-size="18">Interstellar transport: what do we actually know?</text>
+<rect x="45" y="118" width="950" height="96" rx="12" fill="#173652" stroke="#38bdf8" stroke-width="2"/>
+<text x="67" y="153" fill="#7dd3fc" font-family="Arial,sans-serif" font-size="17" font-weight="bold">OBSERVED / VIEWER-REPORTED</text>
+<text x="67" y="182" fill="#f1f5f9" font-family="Arial,sans-serif" font-size="18">Very large vessel · apparently limited visible passenger positions · ring/panels/lighting</text>
+<text x="67" y="202" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="13">Unknown: total capacity, purpose, propulsion requirements, travel price</text>
+<path d="M520 214V257" stroke="#94a3b8" stroke-width="2" stroke-dasharray="6 5"/>
+<path d="M514 252L520 260L526 252" fill="none" stroke="#94a3b8" stroke-width="2"/>
+<text x="45" y="251" fill="#94a3b8" font-family="Arial,sans-serif" font-size="16" font-weight="bold">COMPETING HYPOTHESES — NOT CANON FACTS</text>
+<g font-family="Arial,sans-serif">
+<rect x="45" y="278" width="458" height="82" rx="10" fill="#1e293b" stroke="#64748b"/>
+<text x="65" y="307" fill="#e2e8f0" font-size="18" font-weight="bold">H1 · Elite / restricted travel</text>
+<text x="65" y="335" fill="#94a3b8" font-size="15">Passenger trips may be rare and costly</text>
+<rect x="537" y="278" width="458" height="82" rx="10" fill="#1e293b" stroke="#64748b"/>
+<text x="557" y="307" fill="#e2e8f0" font-size="18" font-weight="bold">H2 · Strategic subsidy</text>
+<text x="557" y="335" fill="#94a3b8" font-size="15">State may fund connectivity despite high cost</text>
+<rect x="45" y="373" width="458" height="82" rx="10" fill="#1e293b" stroke="#64748b"/>
+<text x="65" y="402" fill="#e2e8f0" font-size="18" font-weight="bold">H3 · Hidden capacity / cargo</text>
+<text x="65" y="430" fill="#94a3b8" font-size="15">Visible passengers may be only a fraction</text>
+<rect x="537" y="373" width="458" height="82" rx="10" fill="#1e293b" stroke="#64748b"/>
+<text x="557" y="402" fill="#e2e8f0" font-size="18" font-weight="bold">H4 · Jump technology dominates size</text>
+<text x="557" y="430" fill="#94a3b8" font-size="15">Non-passenger systems may explain scale</text>
+<rect x="45" y="480" width="950" height="61" rx="10" fill="#253346" stroke="#a78bfa"/>
+<text x="65" y="506" fill="#d8b4fe" font-weight="bold" font-size="16">IF H1 + H2 HOLD:</text>
+<text x="235" y="506" fill="#e2e8f0" font-size="16">Political unity may coexist with locally isolated populations</text>
+<text x="65" y="527" fill="#94a3b8" font-size="13">Political implication, not verified series lore. Viewer checkpoint: S01E01, first jump only.</text>
+</g>
+</svg>
