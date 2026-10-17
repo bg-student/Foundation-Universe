@@ -24,6 +24,13 @@
 
 See [the genetic dynasty and repression analysis](../research/genetic-dynasty-and-political-repression.md).
 
+
+### Viewer-provided visual evidence
+
+![Photograph of the large jump vessel, small preview](../assets/images/s01e01-jump-vessel-viewer-photo-preview.jpg)
+
+*Source:* viewer-supplied phone photograph from the ongoing S01E01 discussion, 2026-10-17. **Cropped, downsampled preview** (not the full-resolution source). It shows a substantial external structure with a ring-like feature and repeated paneling. It does **not** establish the purpose of those elements or ship capacity.
+
 ## Research questions opened
 
 1. Are jump vessels built around propulsion/jump systems rather than passenger accommodation?

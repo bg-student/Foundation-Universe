@@ -10,6 +10,10 @@ This is an **analysis-first** study of the depicted fictional civilization: tech
 
 The viewer noticed a striking scale mismatch: a huge jump-capable vessel, but seemingly few visible passenger positions. Does this imply **exclusive, expensive interstellar transport**, strategically subsidized routes, unknown additional capacity, or massive machinery required for a jump?
 
+![Viewer-supplied S01E01 ship photograph (small proof-of-transfer preview)](assets/images/s01e01-jump-vessel-viewer-photo-preview.jpg)
+
+*Viewer-provided 2026-10-17 photograph of the displayed vessel; cropped/downsampled preview for repository transfer validation. This is direct visual evidence, not a generated or online promotional image.*
+
 ![S01E01 interstellar-transport hypotheses diagram](assets/diagrams/transport-hypotheses.svg)
 
 Read the [analysis of interstellar mobility and imperial cohesion](research/interstellar-mobility-and-imperial-cohesion.md), or the [S01E01 observation log](episodes/s01e01-observation-log.md).
@@ -33,7 +37,7 @@ See [genetic continuity, legitimacy and political repression](research/genetic-d
 
 The viewer's only routine contribution is **watching, talking about the series and optionally providing photographs**. The assistant maintains analytical notes, visuals, Markdown links, Git branches, pull requests and merges as part of ordinary discussion. No instructions to operate GitHub should be required after access is established.
 
-This experiment currently supports automated **text and reproducible SVG** changes. Direct binary image transfer from conversation attachments into the repository is **not yet demonstrated** and must not be represented as complete. Source-image photographs should not be silently substituted with unverified internet images.
+This experiment has now demonstrated automated **text, SVG and a small binary JPEG preview** uploaded into GitHub from the viewer-supplied photograph. The image is intentionally cropped/downsampled for this first transport test; a robust, high-resolution image pipeline is **not yet validated**. Source images must never be silently replaced with unrelated or spoiler-prone internet images.
 
 ---
 
